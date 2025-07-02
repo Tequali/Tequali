@@ -34,15 +34,10 @@ Before that I learnt how to conceptualize, create games and how to approach prob
 <b>My GitHub Stats</b>
 <div width="100%" align="center">
 <a href="http://www.github.com/Tequali" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api?username=Tequali&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Tequali's GitHub stats" /></a>
-<a align="right" href="http://www.github.com/Tequali"><img align="right" width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=Tequali&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><br/>
+<a align="right" href="http://www.github.com/Tequali"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Tequali&title_color=0891b2&bg_color=1c1917&color=4A4A4A&line=0891b2&point=0891b2&area_color=0a6980&area=true&hide_border=true" width="500px"/>
+</p></a><br/>
 </div>
 </div>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 <br/>
 <br/>
 <br/>
